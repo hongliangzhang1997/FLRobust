@@ -18,4 +18,6 @@ If you want to use the same settings as us, we provide the conda environment we 
 
 ### Dataset
 
-The paper used SVHN CIFAR10   CIFAR100   datasets are available on `torchvision` and will be downloaded automatically.
+The paper used CIFAR10   CIFAR100   datasets are available on `torchvision` and will be downloaded automatically.
+
+Tiny-ImageNet must be downloaded separately  before running the corresponding experiments.
